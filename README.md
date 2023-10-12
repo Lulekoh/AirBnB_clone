@@ -66,8 +66,8 @@ $
 
 #STRUCTURES
 
-. Readme.md
+. README.md
 . Authors
 . Tests
-. Modules
+. Models
 . Console.py
